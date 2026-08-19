@@ -23,7 +23,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-note: 'getader.com is a parked/for-sale domain. As of 2026-07-20 it serves a domain-parking lander (HTTP 200 with a JS redirect to /lander; every path including /.well-known/security.txt returns the same 114-byte lander HTML, so any 200 is a soft parking response, not a real resource). Previously (2026-07-17) it 307-redirected to forsale.godaddy.com. Ader was an eSports/Twitch influencer-marketing agency (500 Global Batch 16, founded ~2015) that is no longer active. No API, developer portal, docs, or GitHub surface exists to enrich. Skip in future enrichment runs.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
